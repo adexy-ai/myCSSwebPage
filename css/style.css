@@ -1,0 +1,30 @@
+body {
+    background-color: aquamarine;
+    margin:0px
+}
+.top_container {
+    background-color: rgb(192, 230, 130);
+    border-style: solid;
+        height: 320px;
+        width: 320px;
+}
+.continer_two {
+    background-color: rgb(225, 28, 84);
+    border-style: solid;
+        height: 320px;
+        width: 320px;
+}
+.container_three {
+    background-color: rgb(16, 31, 161);
+    border-style: solid;
+        height: 320px;
+        width: 320px;
+}
+/* .top_container>h1 {
+    color: rgb(172, 204, 204);
+    margin-top: 0px;  
+}
+.top_container p {
+    font-weight: bold;
+    color: rgb(240, 163, 76);
+} */
