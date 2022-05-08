@@ -1,21 +1,22 @@
  body {
-    background-color: aquamarine;
+    background-color: rgb(209, 232, 224);
     margin:0px;
     text-align: center;
     font-family: 'Merriweather Sans', sans-serif;
 }
 .first_cloud {
     position:absolute;
-    right:170px;
+    right:250px;
     top:50px;
 }
 .second_cloud {
     position:absolute;
-    left:150px;
+    left:250px;
     bottom:250px;
 }
 div.top_container {
     padding-top: 100px;
+    background-color: rgb(194, 217, 209);
 
 }
 .top_container h1 {
@@ -23,13 +24,17 @@ div.top_container {
     font-family: 'Sacramento', cursive;
     font-size: 3rem;
     color:#66BFBF;
+    line-height: 2;
 }
 .top_container h2 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color:#66BFBF;
-    font-weight: normal;
+    /* font-weight: normal; */
 }
-.profile>img {
+.middle-container .profile img {
+    border-style: ridge;
+    border-width: 0.2rem;
+    border-radius: 85px;
     width: 20%;
     height: auto;
 }
@@ -51,6 +56,51 @@ h2 {
 h3 {
     color:#11999E
 }
+.middle-container .profile p {
+    width: 50%;
+    margin: auto;
+}
+div.skill-row {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.skill-row img {
+    width: 25%;
+    height: 25%;
+    float:left;
+    padding-right: 40px;
+    border-radius: 50%;
+
+}
+.skill-row .img_two {
+    float:right;
+    padding-left: 40px;
+}
+.skill-row p {
+    line-height: 2;
+}
+.skill-row h3 {
+    text-align: left;
+}
+.bottom-container a {
+    font-weight: lighter;
+    color: #11999E;
+    margin: 5px;
+}
+.contact-me a button {
+    width: 1rm;
+    padding: 3px;
+    border: 5px;
+    border-radius: 5px;
+    background-color:width: 12%;
+        border-style: revert; rgb(48, 134, 134);
+
+    
+}
+
 
 /*.top_container {
     background-color: rgba(36, 72, 24, 0.612); 
