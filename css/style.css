@@ -11,8 +11,8 @@
 }
 .second_cloud {
     position:absolute;
-    left:170px;
-    bottom:300px;
+    left:150px;
+    bottom:250px;
 }
 div.top_container {
     padding-top: 100px;
@@ -21,6 +21,35 @@ div.top_container {
 .top_container h1 {
     /* font-family: 'Oleo Script Swash Caps', cursive; */
     font-family: 'Sacramento', cursive;
+    font-size: 3rem;
+    color:#66BFBF;
+}
+.top_container h2 {
+    font-size: 1.5rem;
+    color:#66BFBF;
+    font-weight: normal;
+}
+.profile>img {
+    width: 20%;
+    height: auto;
+}
+.computer {
+    width: 100px;
+    height: auto;
+}
+.top_container h2 a {
+    color: #11999E;
+    text-decoration: none;
+}
+h2 {
+    color: #66BFBF;
+    font-weight: normal;
+}
+.footer-link a + a {
+    color: #11999E;
+}
+h3 {
+    color:#11999E
 }
 
 /*.top_container {
