@@ -2,17 +2,37 @@
     background-color: aquamarine;
     margin:0px;
     text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
 }
-.top_container {
+.first_cloud {
+    position:absolute;
+    right:170px;
+    top:50px;
+}
+.second_cloud {
+    position:absolute;
+    left:170px;
+    bottom:300px;
+}
+div.top_container {
+    padding-top: 100px;
+
+}
+.top_container h1 {
+    /* font-family: 'Oleo Script Swash Caps', cursive; */
+    font-family: 'Sacramento', cursive;
+}
+
+/*.top_container {
     background-color: rgba(36, 72, 24, 0.612); 
-    /* position: fixed;
+    position: fixed;
     height:auto;
-    width: 100%; */
+    width: 100%;
 }
-div.top_container .first_cloud {
-    /* float: right;
+ div.top_container .first_cloud {
+    float: right;
     margin-right: 50px;
-    margin-top: 50px; */
+    margin-top: 50px; 
 }
 div.top_container .second_cloud {
     text-align: center;
@@ -20,7 +40,7 @@ div.top_container .second_cloud {
 .top_container h1 {
     margin-top: 0px;
 }
-    /* border: solid 10px; .continer_two-1 {
+    border: solid 10px; .continer_two-1 {
     width: 250px;
     height: 250px;
     background-color: rgb(207, 234, 73);
