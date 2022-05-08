@@ -90,17 +90,19 @@ div.skill-row {
     color: #11999E;
     margin: 5px;
 }
-.contact-me a button {
-    width: 1rm;
+a.btn {
     padding: 3px;
     border: 5px;
-    border-radius: 5px;
-    background-color:width: 12%;
-        border-style: revert; rgb(48, 134, 134);
-
-    
+    border-radius: 8px;
+    background-color:rgb(48, 134, 134);
+    width: 14%;
+    border-style:groove; 
+    color:#66BFBF;
 }
-
+a.btn:hover {
+    position: relative;
+    top: 2px;
+}
 
 /*.top_container {
     background-color: rgba(36, 72, 24, 0.612); 
