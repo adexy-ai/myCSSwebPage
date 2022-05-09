@@ -103,6 +103,13 @@ a.btn:hover {
     position: relative;
     top: 2px;
 }
+hr.my_hr {
+    width: 15%;
+    margin: auto;
+    border: 2px dotted;
+    color: rgb(176, 240, 40);
+    border-spacing: 2px;
+}
 
 /*.top_container {
     background-color: rgba(36, 72, 24, 0.612); 
