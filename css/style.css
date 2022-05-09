@@ -104,11 +104,12 @@ a.btn:hover {
     top: 2px;
 }
 hr.my_hr {
-    width: 15%;
+    width: 10%;
     margin: auto;
-    border: 2px dotted;
-    color: rgb(176, 240, 40);
-    border-spacing: 2px;
+    border-top: 5px dotted;
+    color: rgb(90, 122, 20);
+    margin-top: 10px
+    /* border-spacing: 2px; */
 }
 
 /*.top_container {
