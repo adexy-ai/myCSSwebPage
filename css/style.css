@@ -88,7 +88,7 @@ div.skill-row {
 .bottom-container a {
     font-weight: lighter;
     color: #11999E;
-    margin: 5px;
+    
 }
 a.btn {
     padding: 3px;
@@ -106,14 +106,14 @@ a.btn:hover {
 hr {
     width: 5%;
     margin: auto;
-    border-top: 5px dotted;
+    border: 6px dotted;
+    border-top: none;
     color: rgb(90, 122, 20);
-    margin-top: 20px
-}
-hr.my_hr {
-    position: relative;
-    bottom: 40px;
+    margin: 100px auto 100px auto;
 }
 div.footer {
     background-color: #66BFBF;
+    margin: 10px 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
