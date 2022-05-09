@@ -114,3 +114,6 @@ hr.my_hr {
     position: relative;
     bottom: 40px;
 }
+div.footer {
+    background-color: #66BFBF;
+}
