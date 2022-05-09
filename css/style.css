@@ -1,5 +1,5 @@
  body {
-    background-color: rgb(209, 232, 224);
+    background-color: rgb(232, 236, 239);
     margin:0px;
     text-align: center;
     font-family: 'Merriweather Sans', sans-serif;
@@ -16,7 +16,7 @@
 }
 div.top_container {
     padding-top: 100px;
-    background-color: rgb(194, 217, 209);
+    background-color: rgb(204, 218, 220);
 
 }
 .top_container h1 {
