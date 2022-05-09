@@ -103,48 +103,14 @@ a.btn:hover {
     position: relative;
     top: 2px;
 }
-hr.my_hr {
-    width: 10%;
+hr {
+    width: 5%;
     margin: auto;
     border-top: 5px dotted;
     color: rgb(90, 122, 20);
-    margin-top: 10px
-    /* border-spacing: 2px; */
+    margin-top: 20px
 }
-
-/*.top_container {
-    background-color: rgba(36, 72, 24, 0.612); 
-    position: fixed;
-    height:auto;
-    width: 100%;
+hr.my_hr {
+    position: relative;
+    bottom: 40px;
 }
- div.top_container .first_cloud {
-    float: right;
-    margin-right: 50px;
-    margin-top: 50px; 
-}
-div.top_container .second_cloud {
-    text-align: center;
-}
-.top_container h1 {
-    margin-top: 0px;
-}
-    border: solid 10px; .continer_two-1 {
-    width: 250px;
-    height: 250px;
-    background-color: rgb(207, 234, 73);
-}
-
-    .continer_two {
-    border: solid 10px;
-    width: 250px;
-    height: 250px;
-    background-color: red;
-    }
-    .container_three {
-    border: solid 10px; 
-    width: 250px;
-    height: 250px;
-background-color: rgb(66, 32, 203);
-    
-}*/
